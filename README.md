@@ -1,6 +1,6 @@
 # Support
 
-Our repository for support questions.
+Our repository for support questions. Use the **Discussions** tab to ask and search for questions.
 
 ## Rules
 
