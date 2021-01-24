@@ -1,6 +1,6 @@
 # Support
 
-Our repository for support questions. Use the **Discussions** tab to ask and search for questions.
+Our repository for support questions. Use the [**Discussions**](https://github.com/LeanAdmin/support-discussions/discussions) tab to ask and search for questions.
 
 ## Rules
 
